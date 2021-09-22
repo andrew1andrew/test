@@ -1,5 +1,6 @@
 123
 Commit test
+New test
 456
 789.
 Add line
